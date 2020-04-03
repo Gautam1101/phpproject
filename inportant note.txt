@@ -1,0 +1,7 @@
+1.Clearfix: - Clearfix property clear all the floated content of the element that it is applied to. 
+              It is also used to clear floated content within a container
+
+1.nav-stacked: this propert is used to dislplay item in row 
+
+
+feed burner:-emailsecription
